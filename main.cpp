@@ -23,6 +23,10 @@ int passedAssertions  = 0;
     }
 //*******************************************************
 
+
+// Given a string expression that contains only '(' and/or ')'
+// returns true if it is balanced in terms of parenthesis
+
 bool parentesisBal(const string &st) {
   stack<char> S;
   for (auto c: st) {
