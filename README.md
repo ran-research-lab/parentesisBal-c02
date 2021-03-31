@@ -1,4 +1,1 @@
-# AStack
-
-An implementation of the Stack ADT using single linked list, in the style
-of the OpenDSA book.
+Implemente el algoritmo de verificación de balance de paréntesis de tipo `{[()]}`
